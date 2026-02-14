@@ -1,7 +1,7 @@
 ## Hola!
 
 ### Contact
-[![LinkedIn Badge](https://img.shields.io/badge/-Pablo_González-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pgp1988/)](https://www.linkedin.com/in/pgp1988/)
+[![LinkedIn_Badge](https://img.shields.io/badge/-Pablo_González-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pgp1988/)](https://www.linkedin.com/in/pgp1988/)
 <!--
 **pgp1988/pgp1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
